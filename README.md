@@ -29,3 +29,10 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+
+
+## testfrom zong
+
+1. 这是我添加的一些说明
+2. 用来学习push
